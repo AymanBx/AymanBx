@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ayman Sandouk.
-I am a CS Masters student at the University of Rhode Island (URI).
-My current research is creating a benchmarking tool to be used by researchers to benchmark LLMs (Large Language Models) and LLM Agents. I'm focusing on benchmarking LLM Agents for social fairness.
-I am also a Teaching Assistant at URI. 
-Currently teaching CSC 311 [Computer Systems & Programming Tools](https://compsys-progtools.github.io/spring2025). Check it out!
+* My name is Ayman Sandouk
+* I am a CS Masters student at the University of Rhode Island (URI)
+* My current research is creating a benchmarking tool to be used by researchers to benchmark LLMs (Large Language Models) and LLM Agents
+  * I'm focusing on benchmarking LLM Agents for social fairness
+* I am also a Teaching Assistant at URI
+  * Currently teaching CSC 311 [Computer Systems & Programming Tools](https://compsys-progtools.github.io/spring2025). Check it out!
