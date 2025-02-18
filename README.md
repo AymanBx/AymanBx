@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     * Macro assembler, in Rust, for a RISC-style virtual machine
     * Designed an algorithm for linking multiple source files into one binary executable with relocation entries
     * Enhanced error reporting by the assembler
-* Teaching
- * Held office hours and working sessions for Machine Organization class (CSC 411) for two semesters  
- * Ran two labs of 20 students each for Operating Systems & Networks Class (CSC 412) for two semesters  
- * Currently Running Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
+* Teaching:
+  * Held office hours and working sessions for Machine Organization class (CSC 411) for two semesters  
+  * Ran two labs of 20 students each for Operating Systems & Networks Class (CSC 412) for two semesters  
+  * Currently Running Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
