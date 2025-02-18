@@ -14,9 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* My name is Ayman Sandouk
-* I am a CS Masters student at the University of Rhode Island (URI)
-* My current research is creating a benchmarking tool to be used by researchers to benchmark LLMs (Large Language Models) and LLM Agents
-  * I'm focusing on benchmarking LLM Agents for social fairness
-* I am also a Teaching Assistant at URI
-  * Currently teaching CSC 311 [Computer Systems & Programming Tools](https://compsys-progtools.github.io/spring2025). Check it out!
+* My name is Ayman Sandouk  
+* BS in Computer Science from University of Rhode Island 2023 - Dean's list Fall 2023  
+* Comuter Science Masters Researcher at the University of Rhode Island  
+* My current research:
+  * fairnessBench
+   * Creating a benchmarking tool to be used by researchers to benchmark LLMs (Large Language Models) and LLM Agents
+   * Currently focusing on benchmarking LLM Agents for social fairness
+* Previous research:
+ * [RUMasm](:
+  * Macro assembler, in Rust, for a RISC-style virtual machine
+  * Designed an algorithm for linking multiple source files into one binary executable with relocation entries
+  * Enhanced error reporting by the assembler
+* Teaching
+ * Held office hours and working sessions for Machine Organization class (CSC 411) for two semesters  
+ * Ran two labs of 20 students each for Operating Systems & Networks Class (CSC 412) for two semesters  
+ * Currently Running Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
