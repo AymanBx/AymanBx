@@ -30,3 +30,5 @@ Here are some ideas to get you started:
   * Held office hours and working sessions for Machine Organization class (CSC 411) for two semesters  
   * Ran two labs of 20 students each for Operating Systems & Networks Class (CSC 412) for two semesters  
   * Currently Running Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
+ 
+I enjoy playing tennis, hanging out with friends and watching action/comedy/sci-fi movies in my free time 🎾🏕️🍿
