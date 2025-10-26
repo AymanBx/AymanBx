@@ -13,7 +13,7 @@
 ###### Ayman Sandouk  
 *Providence, RI*  
 `aymansandouk [at] hotmail.com`  
-_[ORCID ID: ]()_
+_[ORCID Profile]()_  
 _[LinkedIn: Ayman Sandouk]()_  
 _[GitHub: AymanBx]()_  
 _[Resume]()_

@@ -1,4 +1,4 @@
-## Computer Systems and Programming Tools 
+# Computer Systems and Programming Tools 
 
 Ran the Computer Systems & Programming Tools course for a class of 30 students, preparing them for advanced programming concepts such as Bash scripting, floating-point representation, remote server use, C program compilation and linking, version control, collaboration through GitHub, and abstraction in software systems. 
 
