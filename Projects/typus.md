@@ -1,3 +1,10 @@
+---
+title: Typus
+abbreviations:
+  
+---
+
+(typus)=
 # Typus
 
 ## Collaborative Full-Stack Application (SCRUM Project)

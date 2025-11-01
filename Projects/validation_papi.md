@@ -1,3 +1,11 @@
+---
+title: Validation PAPI
+abbreviations:
+  LLM: Large Language Models
+  AI: Artifitial Intelligence
+---
+
+(validationPAPI)=
 # Validation PAPI
 
 ## Data Validation System for Medical Records

@@ -1,7 +1,25 @@
 # Computer Systems and Programming Tools 
 
-Ran the Computer Systems & Programming Tools course for a class of 30 students, preparing them for advanced programming concepts such as Bash scripting, floating-point representation, remote server use, C program compilation and linking, version control, collaboration through GitHub, and abstraction in software systems. 
+> Instructor - University of Rhode Island
 
-Check out the course [webpage](https://compsys-progtools.github.io/spring2025)! 
+I led the Computer Systems & Programming Tools course for a class of 30 students, helping them build a deep understanding of how programs run at the system level. We explored topics like Bash scripting, floating-point representation, remote server use, C program compilation and linking, version control with Git and collaboration workflows with GitHub all through a hands-on, problem-solving approach.
 
-Designed and implemented a Python and Bash tool to collect data on open pull requests and related issues within course GitHub repositories, streamlining the grading process and improving efficiency for instructors.
+Check out the [course website](xref:spring25#paragraph)
+
+To make grading and feedback more efficient, I also designed a Python and Bash tool that automatically gathers information on open pull requests and related issues across student repositories. This tool improved the workflow for instructors and made managing collaborative student projects much smoother.  
+
+```{figure} ../img/IMG_2653.jpg
+:label: compsys_1
+:alt: Whiteboard drawings on GitHub workflow
+:align: left
+
+Whiteboard drawings on GitHub workflow
+```
+
+```{figure} ../img/IMG_2692.jpg
+:label: compsys_2
+:alt: Whiteboard drawings on Git File System
+:align: right
+
+Whiteboard drawings on Git File System
+```

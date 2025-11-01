@@ -1,4 +1,11 @@
-# Open Humanist 
+---
+title: Open Humanities
+abbreviations:
+  
+---
+
+(openHumanist)=
+# Open Humanities 
 
 ## Building Open Research Skills Infrastructure for Digital Humanities
 

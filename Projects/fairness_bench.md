@@ -1,11 +1,12 @@
 ---
-title: FairnessBench
+title: FairAgnetBench
 abbreviations:
   LLM: Large Language Models
   AI: Artifitial Intelligence
 ---
 
-# FaiernessBench
+(fairnessBench)=
+# FairAgnetBench
 
 
 ## Benchmarking LLM-Agents at Fair Machine Learning

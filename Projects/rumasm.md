@@ -1,3 +1,10 @@
+---
+title: RUMasm
+abbreviations:
+  
+---
+
+(runasm)=
 # RUMasm
 
 ## Macro Assembler for the Rust Universal Machine (RUM)
