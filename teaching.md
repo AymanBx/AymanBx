@@ -13,7 +13,7 @@
 ###### Ayman Sandouk  
 *Providence, RI*  
 `aymansandouk [at] hotmail.com`  
-_[ORCID Profile](https://orcid.org/my-orcid?orcid=0009-0005-1231-0115)_  
+_[ORCID Profile](https://orcid.org/0009-0005-1231-0115)_  
 _[LinkedIn: Ayman Sandouk](https://www.linkedin.com/in/ayman-sandouk/)_  
 _[GitHub: AymanBx](https://www.github.com/AymanBx)_  
 _[Resume](./resume_full.pdf)_
@@ -24,9 +24,9 @@ _[Resume](./resume_full.pdf)_
 :alt: Ayman's speaking at a workshop
 ```
 
-As both an undergrauate TA and a Graduate TA I've had the pleasure of leading classes, labs and office hours which was 
+As both an Undergraduate TA and a Graduate TA, I’ve had the pleasure of leading classes, labs, and office hours that emphasized hands-on learning and conceptual understanding. My approach focuses on helping students connect abstract ideas to practical implementation through guided exercises, debugging sessions, and detailed feedback.
 
-Hosted office hours to explain complex concepts, assist with debugging, and support students learning new programming languages. Graded assignments and provided detailed, constructive feedback to help students strengthen their technical and conceptual understanding.
+I regularly hosted office hours to explain complex systems concepts, supported students as they learned new programming languages, and provided detailed, constructive feedback to help them strengthen their technical and conceptual skills.
 
 ::::{grid} 1 2 2 2
 

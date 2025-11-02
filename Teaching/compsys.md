@@ -1,4 +1,4 @@
-# Computer Systems and Programming Tools 
+# Computer Systems and Programming Tools
 
 > Instructor - University of Rhode Island
 
