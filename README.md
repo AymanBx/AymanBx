@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-You have reached my GitHub page somehow. You're in for a ride 😄
+You have reached my GitHub page somehow. You're in for a ride 😄  
 To look at my work in a nicer format, check out [my portfolio](https://aymanbx.github.io/AymanBx)!
 
 * My name is Ayman Sandouk  
