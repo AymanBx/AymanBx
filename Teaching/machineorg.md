@@ -6,12 +6,15 @@ Assisted in teaching the Machine Organization course, guiding students through l
 
 Hosted office hours to explain complex system behaviors, assist with debugging, and support students learning new programming paradigms. Conducted recitation sessions introducing the Rust programming language, where students explored iterators, abstractions, and memory safety concepts through hands-on examples.
 
-```{image} img/IMG_7324.jpg
+```{figure} ../img/IMG_7324.jpg
 :label: opsys_3
+:height: 400px
 :alt: Ayman's pointing out something on a screen
+
 ```
 
-```{image} img/IMG_7327.jpg
+```{figure} ../img/IMG_7327.jpg
 :label: opsys_4
+:height: 400px
 :alt: Ayman's pointing out something on a screeen
 ```

@@ -15,11 +15,11 @@ project:
     - file: projects.md
       children:
         - file: Projects/fairness_bench.md
-        - file: Projects/open_humanist.md
-        - file: Projects/rumasm.md
-        - file: Projects/rum.md
-        - file: Projects/typus.md
         - file: Projects/validation_papi.md
+        - file: Projects/rum.md
+        - file: Projects/rumasm.md
+        - file: Projects/typus.md
+        - file: Projects/open_humanist.md
     - file: teaching.md
       children:
         - file: Teaching/compsys.md
@@ -31,8 +31,6 @@ project:
       title: LinkedIn - Ayman Sandouk
     - url: https://orcid.org/0009-0005-1231-0115
       title: ORCID Profile
-    - url: resume_full.pdf
-      title: Resume PDF
 
     
     

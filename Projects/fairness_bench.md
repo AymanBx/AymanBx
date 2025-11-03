@@ -9,9 +9,9 @@ abbreviations:
 # FairAgnetBench
 
 
-## Benchmarking LLM-Agents at Fair Machine Learning
-
 > Machine Learning for Socio-Technical Systems Lab (ML4STS), University of Rhode Island
+
+## Benchmarking LLM-Agents at Fair Machine Learning
 
 As a software engineer, researcher, and LLM-Agent maintainer, I contributed to developing a benchmarking framework for evaluating large language model agents in the context of fairness and reliability. My role involved maintaining and optimizing agentic AI systems, managing batch job scheduling with SLURM, optimizing CUDA-based computation, and contributing to a forthcoming research paper.
 

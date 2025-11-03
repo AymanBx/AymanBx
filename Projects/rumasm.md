@@ -7,6 +7,8 @@ abbreviations:
 (runasm)=
 # RUMasm
 
+> Algorithms for Big Data Lab - University of Rhode Island
+
 ## Macro Assembler for the Rust Universal Machine (RUM)
 
 
