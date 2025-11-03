@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+You have reached my GitHub page somehow. You're in for a ride 😄
+To look at my work in a nicer format, check out [my portfolio](https://aymanbx.github.io/AymanBx)!
 
 * My name is Ayman Sandouk  
 * BS in Computer Science from University of Rhode Island 2023 - Dean's list Fall 2023  
-* Comuter Science Masters Researcher at the University of Rhode Island  
+* Comuter Science Masters Researcher and Teaching assitant at the University of Rhode Island  
 * Current Project and Research:
-   * fairnessBench
+   * fairAgentBench
      * Creating a benchmarking tool to be used by researchers to benchmark LLMs (Large Language Models) and LLM Agents
      * Currently focusing on benchmarking LLM Agents for social fairness
 * Previous projects:
@@ -33,6 +35,6 @@ Here are some ideas to get you started:
 * Teaching:
   * Held office hours and working sessions for Machine Organization class (CSC 411) for two semesters  
   * Ran two labs of 20 students each for Operating Systems & Networks Class (CSC 412) for two semesters  
-  * Currently Running Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
+  * Ran Computer Systems & Programming Tools Class (CSC 311). [Check it out](https://compsys-progtools.github.io/spring2025)!
  
 I enjoy playing tennis, hanging out with friends and watching action/comedy/sci-fi movies in my free time 🎾🏕️🍿
