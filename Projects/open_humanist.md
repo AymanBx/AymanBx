@@ -12,9 +12,11 @@ abbreviations:
 ## Building Open Research Skills Infrastructure for Digital Humanities
 
 
-Developed and implemented an open-access training program to introduce humanities scholars and educators to essential open-source tools, including Bash, Git, GitHub, and MyST. Designed the curriculum using The Carpentries model and infrastructure for open-source curriculum development, which emphasizes inclusive pedagogy, and adopted Mozilla’s open-source community practices for inclusive open source to ensure accessibility for all learners. Delivered hands-on workshops that prepared participants to collaborate and contribute to digital humanities projects using reproducible, transparent workflows.
+I collaborated on putting together an open-access training program to help humanities scholars and educators get comfortable with core open‑source tools like Bash, Git, GitHub, and MyST. We built the curriculum using The Carpentries approach to teaching, which focuses on inclusive, hands‑on learning, we borrowed a lot from Mozilla’s open‑source community practices to make sure everything was accessible and welcoming.
 
-It was inspiring to see how open technologies can bridge the gap between technical methods and humanistic inquiry, and how inclusive, community-driven training can make digital research more accessible to all.
+I also co-ran the workshop where people could actually try things out, collaborate, and learn how to build digital humanities projects using transparent, reproducible workflows and utilize existing open sorce ones.
+
+Seeing how open tools can connect technical skills with humanistic questions and how much difference inclusive, community‑driven teaching makes was genuinely energizing. It showed me how open technologies can make digital research feel more approachable for everyone.
 
 
 Skills: Bash, Git, GitHub, MyST, Open Research, Curriculum Design, The Carpentries
