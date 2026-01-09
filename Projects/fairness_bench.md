@@ -13,8 +13,9 @@ abbreviations:
 
 ## Benchmarking LLM-Agents at Fair Machine Learning
 
-As a software engineer, researcher, and LLM-Agent maintainer, I contributed to developing a benchmarking framework for evaluating large language model agents in the context of fairness and reliability. My role involved maintaining and optimizing agentic AI systems, managing batch job scheduling with SLURM, optimizing CUDA-based computation, and contributing to a forthcoming research paper.
+I worked as a software engineer and researcher maintaining an LLM agent, and I helped build a benchmarking framework to test how fair and reliable these agents actually are. A lot of my time went into keeping the agentic systems running smoothly, handling SLURM batch jobs, tuning CUDA performance, and contributing to a research paper that’s in the pipeline.
 
-This experience deepened my understanding of agentic AI systems and the challenges of evaluating fairness and performance in large language models.
+The whole project gave me a much clearer picture of how these agent systems behave in the real world and just how tricky it is to measure fairness and performance in large language models.
 
 Skills: Python, HPC, SLURM, CUDA, AI Systems, Benchmarking, Research
+
