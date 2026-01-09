@@ -11,12 +11,12 @@ abbreviations:
 
 ## Macro Assembler for the Rust Universal Machine (RUM)
 
+I helped build a macro assembler in Rust for the Rust Universal Machine (RUM), the little RISC‑style virtual machine used in our Machine Organization course. The whole idea was to give students a clearer, more hands‑on way to understand how assembly actually works.
 
-Collaborated on developing a macro assembler in Rust for the Rust Universal Machine (RUM), a RISC-style virtual machine used in a Computer Science Machine Organization course to help students learn and understand low-level assembly concepts.
+One of the bigger pieces I worked on was an algorithm that links multiple assembly files into a single executable, complete with relocation entries. That made it possible to split programs across files and piece them together cleanly, basically giving students a more realistic, modular workflow.
 
-Designed and implemented an algorithm for linking multiple assembly source files into a single binary executable with relocation entries, enabling modular program composition.
+We also built the assembler so it includes template code blocks where students fill in the logic for core instructions like add, subtract, load, and store. It’s a simple setup, but it gets them working directly with instruction set design and the nitty‑gritty of machine‑level behavior, which is where everything finally clicks.
 
-As part of its educational use, the assembler includes template code blocks where students can implement key assembly instructions (e.g., add, subtract, load, store)—helping them engage directly with instruction set design and machine-level operations.
 
 
 Skills: Rust, Assembly, Systems Programming, Linker Design, RISC Architecture, Binary Relocation
