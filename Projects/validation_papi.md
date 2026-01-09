@@ -12,10 +12,10 @@ abbreviations:
 
 ## Data Validation System for Medical Records
 
-Developed a robust system for validating structured data-record files and generating detailed error diagnostics before transmission to recipient systems. Designed specification files in JSON to define validation constraints and ensure data integrity across multiple record formats.
+I built a system that checks structured data‑record files before they get sent out, making sure everything is formatted correctly and flagging any issues early. I set up JSON spec files to define all the validation rules, which helped keep different record formats consistent and reliable.
 
-Implemented and tested the record validation algorithm in Python, then deployed it as a RESTful API on MuleSoft Anypoint Studio, integrating it into an automated pipeline for data ingestion and verification. The system proactively identified and filtered out common formatting and compliance errors, significantly reducing the rate of rejected files in medical staff and student record submissions.
+I wrote the validation logic in Python and then turned it into a REST API using MuleSoft Anypoint Studio, plugging it into an automated pipeline for data ingestion. The system caught a lot of the common formatting and compliance mistakes upfront, which really cut down on how many medical staff and student record files were getting rejected.
 
-Additionally, mentored a junior intern, managing their tasks and providing hands-on training in Git and GitHub workflows to support collaborative software development.
+I also mentored a junior intern along the way, helping him plan their tasks and teaching him how to use Git and GitHub effectively so he could contribute confidently to the project.
 
 Skills: Functional Programming, Python, REST API Development, JSON, MuleSoft Anypoint Studio, Data Validation, Git, Mentorship
