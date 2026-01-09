@@ -2,11 +2,11 @@
 
 > Instructor - University of Rhode Island
 
-I led the Computer Systems & Programming Tools course for a class of 30 students, helping them build a deep understanding of how programs run at the system level. We explored topics like Bash scripting, floating-point representation, remote server use, C program compilation and linking, version control with Git and collaboration workflows with GitHub all through a hands-on, problem-solving approach.
+I taught the Computer Systems & Programming Tools course for a class of about 30 students, helping them really understand what’s going on under the hood when programs run. We dug into things like Bash scripting, floating‑point representation, working on remote servers, how C programs get compiled and linked, and how to use Git and GitHub for real collaboration. Everything was taught through hands‑on problem solving, so students were constantly experimenting and building as they learned.
 
 Check out the [course website](https://compsys-progtools.github.io/spring2025)
 
-To make grading and feedback more efficient, I also designed a Python and Bash tool that automatically gathers information on open pull requests and related issues across student repositories. This tool improved the workflow for instructors and made managing collaborative student projects much smoother.  
+I also put together a Python & Bash tool and a couple more bash scripts to make grading and feedback easier. USed to automatically pull info from students’ repositories open pull requests, related issues, that kind of thing, so instructors can keep track of everyone’s progress without digging through dozens of repos manually. It made managing group projects and code reviews way smoother for the whole teaching team.
 
 
 ::::{grid} 1 2 2 2
@@ -36,4 +36,5 @@ Whiteboard drawings on Git File System
 ```
 
 :::
+
 ::::::
