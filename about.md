@@ -20,7 +20,8 @@ _[Resume](./resume_full.pdf)_
 
 ###### 🧠 About Me
 
-I’m a computer scientist and educator pursuing an M.S. in Computer Science at the University of Rhode Island (expected May 2026). My work sits at the intersection of AI research, systems, and education. I’m passionate about building tools and frameworks that make research more transparent, reproducible, and accessible to a broader community, AI systems, and helping others understand the technologies shaping our world. My work bridges research and teaching, from developing LLM-agent benchmarking systems to designing inclusive open-source training curricula for digital humanities scholars.
+I’m a computer scientist and educator working toward my M.S. in Computer Science at the University of Rhode Island (graduating May 2026). I spend most of my time at the intersection of AI systems, research infrastructure, and teaching. I love building tools that make research more transparent and reproducible, and I care a lot about helping people actually understand the technologies shaping the world around them.
+My work tends to bridge research and education, everything from developing benchmarking systems for LLM‑based agents to creating open‑source training programs that help digital humanities scholars get comfortable with technical tools.
 
 ###### ⚙️ Technical Expertise
 
@@ -42,5 +43,6 @@ I’m a computer scientist and educator pursuing an M.S. in Computer Science at 
 :alt: Ayman's floating in a lake
 
 ```
+
 
 This is the most I felt connected to nature ever!  
