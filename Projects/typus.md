@@ -11,7 +11,7 @@ abbreviations:
 
 ## Collaborative Full-Stack Application (SCRUM Project)
 
-Served as SCRUM Master for a team of four, leading the development of a full-stack application in a collaborative, Agile environment. Oversaw sprint planning, task distribution, and iterative feature delivery to ensure effective communication and workflow continuity.
+I served as the SCRUM Master for a four‑person team building a full‑stack app, making sure our sprints stayed on track and everyone knew what they were working on. Most of my time went into keeping communication smooth, planning out tasks, and helping the team deliver features in steady, manageable chunks.
 
 ```{image} ../img/typus_logo.png
 :label: mlagentbench
@@ -21,15 +21,11 @@ Served as SCRUM Master for a team of four, leading the development of a full-sta
 ```
 
 
-Collaborated on building the frontend, which was designed using a UI tool that generates React Native code, and developed the backend using Google Firebase, integrating features such as Authentication, Realtime Database, and Cloud Functions.
+I also worked on the frontend, which we built using a UI tool that generates React Native code, and helped develop the backend with Firebase. We pulled in Firebase Authentication, the Realtime Database, and Cloud Functions to handle the core logic.
 
-Implemented and deployed multiple Firebase Cloud Functions:
+On the Cloud Functions side, I wrote and deployed a couple of key pieces: a JavaScript function that calculates Levenshtein distance between strings, and a Python function that formats and sorts data entries. I tested everything through Postman to make sure the functions behaved correctly and performed well.
 
-A JavaScript function for calculating Levenshtein distance between string entries.
-
-A Python function for formatting and sorting data entries, tested via Postman for validation and performance.
-
-Employed Git and GitHub for version control and project management, using GitHub Projects for task tracking, Issues for bug reporting, Wikis for documentation, and Pages for hosting user-facing content.
+For version control and project organization, we relied heavily on Git and GitHub Projects for tracking tasks, Issues for bugs, Wikis for documentation, and Pages for anything user‑facing. It made the whole workflow feel organized and transparent, which kept the team moving forward smoothly.
 
 ```{image} ../img/typus_welcome.png
 :label: typus_2
@@ -39,3 +35,4 @@ Employed Git and GitHub for version control and project management, using GitHub
 ```
 
 Skills: React Native, JavaScript, Python, Firebase, Cloud Functions, Git, GitHub, Agile, SCRUM, Full-Stack Development
+
